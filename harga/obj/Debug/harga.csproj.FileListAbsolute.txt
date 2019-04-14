@@ -1,0 +1,7 @@
+C:\Users\Sutro\source\repos\harga\harga\obj\Debug\harga.csprojAssemblyReference.cache
+C:\Users\Sutro\source\repos\harga\harga\obj\Debug\harga.csproj.CoreCompileInputs.cache
+C:\Users\Sutro\source\repos\harga\harga\bin\Debug\harga.exe.config
+C:\Users\Sutro\source\repos\harga\harga\bin\Debug\harga.exe
+C:\Users\Sutro\source\repos\harga\harga\bin\Debug\harga.pdb
+C:\Users\Sutro\source\repos\harga\harga\obj\Debug\harga.exe
+C:\Users\Sutro\source\repos\harga\harga\obj\Debug\harga.pdb
