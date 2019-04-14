@@ -18,6 +18,7 @@ namespace harga
             Process.GetInstance.ReadFile(ref transact);
             Console.ReadKey();
             Console.ReadLine();
+            ConsoleKeyInfo();
         }
     }
 }
